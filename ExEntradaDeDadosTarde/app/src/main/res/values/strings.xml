@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExEntradaDeDadosTarde</string>
+    <string name="et_pontos_o">Pontuação do O</string>
+    <string name="et_pontos_x">Pontuação do X</string>
+    <string name="tv_x">X</string>
+    <string name="tv_o">O</string>
+</resources>
