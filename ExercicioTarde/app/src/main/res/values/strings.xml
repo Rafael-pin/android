@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Roll Dice RPG</string>
+    <string name="ma_rb_d6">D6</string>
+    <string name="ma_rb_d8">D8</string>
+    <string name="ma_rb_d10">D10</string>
+    <string name="ma_rb_d12">D12</string>
+    <string name="ma_rb_d16">D16</string>
+    <string name="ma_rb_d20">D20</string>
+</resources>
